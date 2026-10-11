@@ -1,0 +1,6 @@
+﻿symbol,strategy,total_days,buy_signals,buy_win_rate,buy_avg_return,coverage,hold_days,strategy_name,strategy_desc,avg_max_gain,avg_max_loss
+600519,optimized_v1,179,0,0.0,0.0,0.0,5,优化策略v1(布林下轨+RSI<35+多因子),历史胜率81.5%,,
+600519,reversal_strong,179,0,0.0,0.0,0.0,5,强超跌反弹(5日跌>=12%+RSI<35),历史胜率72.5%,,
+600519,reversal_mild,179,0,0.0,0.0,0.0,5,温和超跌反弹(5日跌>=10%+RSI<35),历史胜率54.9%,,
+600519,reversal_volume,179,0,0.0,0.0,0.0,5,缩量超跌反弹,缩量确认,,
+600519,comprehensive,179,3,33.33,0.46,1.68,5,综合策略(超跌+突破),多策略综合,3.42,-3.57
